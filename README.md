@@ -289,3 +289,6 @@ All endpoints are prefixed with `/api`.
 - **Cards**: Responsive grid layout
 - **Typography**: Fluid typography that scales with screen size
 
+
+## Maintained by
+This repository was migrated and is maintained by Supri L.
